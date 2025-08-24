@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Eu sou Nalyson, tenho 17 anos e sou  Tecnico em Desenvolvimento de sistemas, tenho interesse 
+I'm Nalyson, I'm 17 years old and I'm a Systems Development Technician, I'm interested
 
 <p align="left">
     <a href="https://github.com/N4l150?tab=repositories&sort=stargazers">
