@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-I'm Nalyson, I'm 17 years old and I'm a Systems Development Technician, I'm interested
+I'm Nalyson, I'm 17 years old and I'm a Systems Development Technician.
 
 <p align="left">
     <a href="https://github.com/N4l150?tab=repositories&sort=stargazers">
