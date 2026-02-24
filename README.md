@@ -23,7 +23,7 @@ I'm Nalyson, I'm 17 years old and I'm a Systems Development Technician.
 
 ---
 
-### 🤖💻 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
